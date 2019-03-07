@@ -8,6 +8,6 @@
 </head>
 <body>
 	<h2>내용추가</h2>
-	<h3>CheckOut금지용 ㅠㅠㅠ</h3>
+	<h3>CheckOut금지용 ㅠㅠ</h3>
 </body>
 </html>
